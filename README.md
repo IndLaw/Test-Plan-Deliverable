@@ -487,7 +487,7 @@ Exception in thread "main" java.lang.NumberFormatException: For input string: "R
         at Game.makeMove(Game.java:295)
         at Game.play(Game.java:43)
         at ConnectFour.main(ConnectFour.java:13)
-        ````
+ ````
 
 
 SUMMARY: Unexpected tie.
