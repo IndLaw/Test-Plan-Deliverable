@@ -1,4 +1,4 @@
-# 1632-Deliverable-1
+# Test Plan Deliverable
 
 ## Test Plan for Super Connect Four
 
